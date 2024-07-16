@@ -1,6 +1,6 @@
 # Challenge-ONE-Front-End---Portafolio
 <p align="center" >
-      https://github.com/user-attachments/assets/ba6b5ca2-0dc3-4c02-ae43-9ff91337e2c5"
+     ![Alura](https://github.com/user-attachments/assets/f1187de6-9149-43c0-bc6c-1fb3da1c68d1)
 </p>
 ***¡Bienvenido al proyecto base del Portafolio !
 
