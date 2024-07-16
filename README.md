@@ -1,5 +1,7 @@
 # Challenge-ONE-Front-End---Portafolio
-![Alura](https://github.com/user-attachments/assets/f2f64960-4174-42ff-9588-f3bdcb334b9a)
-¡Bienvenido al proyecto base del Portafolio !
+<p align="center" >
+     <img width="600" heigth="600" src="https://www.figma.com/design/MGoxx3T0gDPFrgeNwdld22/Portafolio-(Copy)?node-id=1-29&m=dev&t=MABvSIXe80aproCa-1">
+</p>
+***¡Bienvenido al proyecto base del Portafolio !
 
 
